@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_dark">@android:color/holo_blue_dark</color>
+    <color name="color1">#e4ba4e</color>
+    <color name="color2">#DDA0DD</color>
+    <color name="color3">#8FBC8F</color>
+    <color name="color4">#efdcc3</color>
+    <color name="color5">#FFFFFF</color>
+    <color name="color6">#40E0D0</color>
+</resources>
